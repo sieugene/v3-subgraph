@@ -1,0 +1,18 @@
+{
+	"network_name": "bsc",
+	"start_block": 7796111,
+	"should_backfill": true,
+	"factory_address": "0xbEAC7e750728e865A3cb39D5ED6E3A3044ae4B98",
+	"manager_address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+	"weth_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+	"stable_pool_address": "0xb55d67aa2d57861c81487b29a578ae1cdf272795",
+	"whitelist_tokens": [
+	  { "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c", "blurb": "WBNB" },
+	  { "address": "0x55d398326f99059ff775485246999027b3197955", "blurb": "USDT" }
+	],
+	"stabelcoins": [{ "address": "0x55d398326f99059ff775485246999027b3197955", "blurb": "USDT" }],
+	"stableIsToken0": true,
+	"min_eth": 10,
+	"error_pool": ""
+  }
+  
